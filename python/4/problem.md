@@ -6,3 +6,5 @@ A palindromic number reads the same both ways. The largest palindrome made from 
 9009 = 91 x 99
 
 Find the largest palindrome made from the product of two 3-digit numbers.
+
+https://projecteuler.net/problem=4

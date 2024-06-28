@@ -18,5 +18,6 @@ def factorize(x):
     return prime_factors
 
 if __name__ == '__main__':
-    factors = factorize(600_851_475_143)
+    # factors = factorize(600_851_475_143)
+    factors = factorize(2520)
     print(factors)
